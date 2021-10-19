@@ -12,7 +12,7 @@
 - Decoupling and Refactoring
 
 # Interests
-- Game Development
+- Multiplayer Game Development
 - Event-Driven Architecture Pattern
 - Lazy Pirate Pattern
 - Database Optimization

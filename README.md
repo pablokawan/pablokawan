@@ -9,7 +9,7 @@
 
 # Skills & Endorsements
 - Microservices
-- Decoupling / Refactoring
+- Decoupling and Refactoring
 
 # Interests
 - Game Development

@@ -4,8 +4,8 @@
 
  I'm a Developer and Tech Lead at Serveloja Team.
 
-​◈ I’m currently working at [Serveloja][serveloja] and for [Delbank][delbank] development!
-​◈ I’m currently learning the [DevOps][devops] path
+◈ I’m currently working at [Serveloja][serveloja] and for [Delbank][delbank] development!
+◈ I’m currently learning the [DevOps][devops] path
 
 ## Some of my Github Public Stats
 

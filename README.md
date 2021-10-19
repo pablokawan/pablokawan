@@ -11,6 +11,17 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=pablokawan&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/pablokawan)
 
+# Skills & Endorsements
+- Microservices
+- Decoupling
+- Refactoring
+
+# Interests
+- Game Development
+- Event-Driven Architecture Pattern
+- Lazy Pirate Pattern
+- Database Optimization
+
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablokawan/ "Connect on LinkedIn")

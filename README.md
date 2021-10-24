@@ -15,6 +15,7 @@
 - Multiplayer Game Development
 - Event-Driven Architecture Pattern
 - Lazy Pirate Pattern
+- Chaos Engineering
 - Database Optimization
 
 ## Some of my Github Stats

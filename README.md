@@ -2,9 +2,9 @@
 
 
 
- I'm a full-time .NET Developer and Tech Lead at Serveloja Team.
+ I'm a full-time .NET Developer
 
-- I’m currently working at [Serveloja][serveloja] and for [Delbank][delbank] development!
+- I’m currently working at [Delbank][delbank] as a Software Architect!
 - I’m currently learning the [DevOps][devops] path
 
 # Skills & Endorsements

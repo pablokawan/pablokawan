@@ -4,10 +4,10 @@
 
  I'm a full-time .NET Developer
 
-- I’m currently working at [Delbank][delbank] as a Software Architect!
-- I’m currently learning the [DevOps][devops] path
+- I’m currently working at [Siglo][sigloconsult] as a Senior Software Developer!
 
 # Skills & Endorsements
+- APIs
 - Microservices
 - Decoupling and Refactoring
 
@@ -27,6 +27,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablokawan/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](http://instagram.com/kawantrinity "Contact on Instagram")
 
-[devops]: https://roadmap.sh/devops
-[serveloja]: https://play.google.com/store/apps/details?id=br.com.serveloja.app&hl=en_US
-[delbank]: https://play.google.com/store/apps/details?id=br.com.delbank&hl=en_US
+[sigloconsult]: https://www.sigloconsult.com.br
